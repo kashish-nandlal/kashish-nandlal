@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Kashish Nandlal
 
-<!--
-**kashish-nandlal/kashish-nandlal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSCS Student at SZABIST University**
 
-Here are some ideas to get you started:
+I am a Computer Science student interested in Artificial Intelligence, Machine Learning, Deep Learning, and Automation. I am continuously learning new technologies and developing my technical skills through academic projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Interests
+- Artificial Intelligence and Machine Learning
+- Deep Learning
+- Automation and Intelligent Systems
+- Image Classification
+
+Final Year Project
+
+Pakistani Fashion Image Classification Using Transfer Learning and Ensemble Deep Learning Models**
+
+My FYP focuses on classifying Pakistani fashion images into different clothing categories using deep learning models.
+
+Key Areas:
+- Image Classification
+- Transfer Learning
+- Ensemble Learning
+- Semi-Supervised Learning
+
+Education
+Bachelor of Science in Computer Science (BSCS) 
+SZABIST University
+
+Current Focus
+Learning AI/ML techniques, improving my programming skills, and exploring practical applications of deep learning.
+
+Thank you for visiting my profile!
