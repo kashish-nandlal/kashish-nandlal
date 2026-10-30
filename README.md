@@ -1,21 +1,18 @@
-Hi, Iam Kashish Nandlal
+Hi, I'm Kashish Nandlal
 
 BSCS Student at SZABIST University
 
-I am a Computer Science student with an interest in Artificial Intelligence, Machine Learning, Deep Learning, and Automation. I am interested in exploring how these technologies are used to solve real-world problems and shape the future of the IT industry.
+I am a Computer Science student interested in Artificial Intelligence, Machine Learning, Deep Learning, and Automation. I am interested in exploring how these technologies are used in today's IT industry.
 
 Technical Interests
 - Artificial Intelligence (AI)
 - Machine Learning (ML)
 - Deep Learning (DL)
 - Automation
-- Intelligent Systems
 
-Programming Languages & Technologies
+Programming Languages
 - Python
 - SQL
-- PyTorch
-- Deep Learning Models
 
 Final Year Project (FYP)
 
@@ -23,21 +20,18 @@ Pakistani Fashion Image Classification Using Transfer Learning and Ensemble Deep
 
 My Final Year Project focuses on classifying Pakistani fashion images into different clothing categories using deep learning techniques.
 
-The project explores different deep learning models and ensemble learning approaches to improve image classification performance.
+Models Trained:
+- MobileNet
+- EfficientNet-B0
 
 Project Focus:
 - Pakistani Fashion Image Classification
 - Image Dataset Collection and Preparation
 - Transfer Learning
-- Ensemble Deep Learning
+- Ensemble Learning
 - Semi-Supervised Learning
-- Model Evaluation and Performance Comparison
 
-Models Explored:
-- MobileNet
-- EfficientNet-B0
-
-Evaluation Metrics:
+Model Evaluation:
 - Accuracy
 - Precision
 - Recall
@@ -45,7 +39,7 @@ Evaluation Metrics:
 - Confusion Matrix
 
 Education
-Bachelor of Science in Computer Science (BSCS)  
+Bachelor of Science in Computer Science (BSCS) 
 SZABIST University
 
-Thank you for visiting my profile!
+Thank you for visiting my profile! 😊
