@@ -32,7 +32,7 @@ Project Focus:
 
 Education
 
-Bachelor of Science in Computer Science (BSCS)
+Bachelor of Science in Computer Science (BSCS) 
 SZABIST University
 
 Career Interests
